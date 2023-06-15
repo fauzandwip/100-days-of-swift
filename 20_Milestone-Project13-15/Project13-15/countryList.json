@@ -1,0 +1,49 @@
+{
+	"countries": [
+		{
+			"name": "Indonesia",
+			"capital": "Jakarta",
+			"president": "Joko Widodo",
+			"language": "Indonesian",
+			"currency": "Indonesia Rupiah (Rp)",
+			"area": "1,904,569 km2",
+			"population": 277749853
+		},
+		{
+			"name": "Japan",
+			"capital": "Tokyo",
+			"president": "Naruhito",
+			"language": "Japanese",
+			"currency": "Japanese Yen (¥)",
+			"area": "377,975 km2",
+			"population": 124840000
+		},
+		{
+			"name": "Switzerland",
+			"capital": "Bern",
+			"president": "Alain Berset",
+			"language": "German",
+			"currency": "Swiss Franc (CHF)",
+			"area": "41,285 km2",
+			"population": 8738791
+		},
+		{
+			"name": "Norway",
+			"capital": "Oslo",
+			"president": "Harald V",
+			"language": "Norwegian",
+			"currency": "Norwegian Krone (NOK)",
+			"area": "385,207 km2",
+			"population": 5488984
+		},
+		{
+			"name": "New Zealand",
+			"capital": "Wellington",
+			"president": "Charles III",
+			"language": "English",
+			"currency": "New Zealand Dollar ($)",
+			"area": "268,021 km2",
+			"population": 5164590
+		}
+	]
+}
