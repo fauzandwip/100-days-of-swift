@@ -28,6 +28,8 @@ class ViewController: UITableViewController {
             }
         }
         
+        // MARK: - uncomment to first load
+        
 //        let fm = FileManager.default
 //        let path = Bundle.main.resourcePath!
 //        var items = try! fm.contentsOfDirectory(atPath: path)
