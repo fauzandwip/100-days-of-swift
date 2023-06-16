@@ -23,7 +23,8 @@ class ViewController: UIViewController {
 
 //        // Remove a keychain item with a specific key
 //        let keychainKey = "password"
-//        let removed = KeychainWrapper.standard.removeObject(forKey: keychainKey)
+//        let removed =
+//            .standard.removeObject(forKey: keychainKey)
 //        if removed {
 //            print("Keychain item with key \(keychainKey) removed successfully.")
 //        } else {

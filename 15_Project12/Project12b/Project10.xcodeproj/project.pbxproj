@@ -13,7 +13,6 @@
 		7B643E192A0212580003C2FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B643E172A0212580003C2FD /* Main.storyboard */; };
 		7B643E1B2A02125A0003C2FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B643E1A2A02125A0003C2FD /* Assets.xcassets */; };
 		7B643E1E2A02125A0003C2FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B643E1C2A02125A0003C2FD /* LaunchScreen.storyboard */; };
-		7B643E262A0212C60003C2FD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7B643E252A0212C60003C2FD /* .gitignore */; };
 		7BCFCF4F2A0245980063BAC2 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCFCF4E2A0245980063BAC2 /* PersonCell.swift */; };
 		7BCFCF572A0266D80063BAC2 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCFCF562A0266D80063BAC2 /* Person.swift */; };
 /* End PBXBuildFile section */
@@ -27,7 +26,6 @@
 		7B643E1A2A02125A0003C2FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B643E1D2A02125A0003C2FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B643E1F2A02125A0003C2FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7B643E252A0212C60003C2FD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		7BCFCF4E2A0245980063BAC2 /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 		7BCFCF562A0266D80063BAC2 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -46,7 +44,6 @@
 		7B643E052A0212580003C2FD = {
 			isa = PBXGroup;
 			children = (
-				7B643E252A0212C60003C2FD /* .gitignore */,
 				7B643E102A0212580003C2FD /* Project10 */,
 				7B643E0F2A0212580003C2FD /* Products */,
 			);
@@ -134,7 +131,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B643E262A0212C60003C2FD /* .gitignore in Resources */,
 				7B643E1E2A02125A0003C2FD /* LaunchScreen.storyboard in Resources */,
 				7B643E1B2A02125A0003C2FD /* Assets.xcassets in Resources */,
 				7B643E192A0212580003C2FD /* Main.storyboard in Resources */,

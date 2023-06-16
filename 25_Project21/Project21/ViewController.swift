@@ -48,8 +48,8 @@ class ViewController: UIViewController, UNUserNotificationCenterDelegate {
         content.sound = UNNotificationSound.default
         
         var dateCompontents = DateComponents()
-        dateCompontents.hour = 11
-        dateCompontents.minute = 56
+        dateCompontents.hour = 20
+        dateCompontents.minute = 8
         
 //        let trigger = UNCalendarNotificationTrigger(dateMatching: dateCompontents, repeats: true)
         

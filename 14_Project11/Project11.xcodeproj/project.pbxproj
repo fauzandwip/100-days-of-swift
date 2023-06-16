@@ -16,8 +16,6 @@
 		7BCFCF752A0280590063BAC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BCFCF732A0280590063BAC2 /* LaunchScreen.storyboard */; };
 		7BCFCF9A2A028F1E0063BAC2 /* Launch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BCFCF992A028F1E0063BAC2 /* Launch.storyboard */; };
 		7BCFCF9E2A036FB50063BAC2 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7BCFCF9D2A036FB50063BAC2 /* FireParticles.sks */; };
-		7BECE9222A075D9800B03C86 /* otherProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BECE9212A075D9800B03C86 /* otherProject.swift */; };
-		7BECE9242A075DAD00B03C86 /* otherClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BECE9232A075DAD00B03C86 /* otherClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +29,6 @@
 		7BCFCF742A0280590063BAC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BCFCF992A028F1E0063BAC2 /* Launch.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Launch.storyboard; sourceTree = "<group>"; };
 		7BCFCF9D2A036FB50063BAC2 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
-		7BECE9212A075D9800B03C86 /* otherProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherProject.swift; sourceTree = "<group>"; };
-		7BECE9232A075DAD00B03C86 /* otherClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,8 +45,6 @@
 		7BCFCF582A0280570063BAC2 = {
 			isa = PBXGroup;
 			children = (
-				7BECE9232A075DAD00B03C86 /* otherClass.swift */,
-				7BECE9212A075D9800B03C86 /* otherProject.swift */,
 				7BCFCF632A0280570063BAC2 /* Project11 */,
 				7BCFCF622A0280570063BAC2 /* Products */,
 			);
@@ -156,8 +150,6 @@
 			files = (
 				7BCFCF6B2A0280570063BAC2 /* GameScene.swift in Sources */,
 				7BCFCF6D2A0280570063BAC2 /* GameViewController.swift in Sources */,
-				7BECE9222A075D9800B03C86 /* otherProject.swift in Sources */,
-				7BECE9242A075DAD00B03C86 /* otherClass.swift in Sources */,
 				7BCFCF652A0280570063BAC2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
