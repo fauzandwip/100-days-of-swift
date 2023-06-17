@@ -11,6 +11,8 @@ https://www.hackingwithswift.com/100
 ## Previews
 
 *Within each project are larger versions of the screenshots.*
+<!-- Projects / Topics | Screenshots
+---|--- -->
 
 Projects / Topics  |  Screenshots
 --- | ---
@@ -18,7 +20,7 @@ Projects / Topics  |  Screenshots
 | [Project 1 140](01_Project1) - __Storm Viewer__ <br/><sub> View controllers, Storyboard, FileManager </sub> | ![screen1](01_Project1/screenshots/small/screen01-140.png) ![screen2](01_Project1/screenshots/small/screen01-140.png) ![screen2](01_Project1/screenshots/small/screen01-140.png) ![screen2](01_Project1/screenshots/small/screen01-140.png) |
 | [Project 1 130](01_Project1) - __Storm Viewer__ <br/><sub> View controllers, Storyboard, FileManager </sub> | ![screen1](01_Project1/screenshots/small/screen01-130.png) ![screen2](01_Project1/screenshots/small/screen01-130.png) ![screen2](01_Project1/screenshots/small/screen01-130.png) ![screen2](01_Project1/screenshots/small/screen01-130.png) |
 | [Project 1 120](01_Project1) - __Storm Viewer__ <br/><sub> View controllers, Storyboard, FileManager </sub> | ![screen1](01_Project1/screenshots/small/screen01-120.png) ![screen2](01_Project1/screenshots/small/screen01-120.png) ![screen2](01_Project1/screenshots/small/screen01-120.png) ![screen2](01_Project1/screenshots/small/screen01-120.png) |
-| [Project 1](01_Project1) - __Storm Viewer__ <br/><sub> View controllers, Storyboard, FileManager </sub> | ![screen1](01_Project1/screenshots/small/screen01.png) ![screen2](01_Project1/screenshots/small/screen02.png) ![screen2](01_Project1/screenshots/small/screen03.png) |
+<!-- | [Project 1](01_Project1) - __Storm Viewer__ <br/><sub> View controllers, Storyboard, FileManager </sub> | ![screen1](01_Project1/screenshots/small/screen01.png) ![screen2](01_Project1/screenshots/small/screen02.png) ![screen2](01_Project1/screenshots/small/screen03.png) |
 | [Project 2](02_Project1) - __Guess The Flag__ <br/><sub> UIButton, CALayer, IBAction </sub> | ![screen1](02_Project2/screenshots/small/screen01.png) ![screen2](02_Project2/screenshots/small/screen02.png) ![screen2](02_Project2/screenshots/small/screen03.png) |
 | [Project 3](03_Project3) - __Social Media__ <br/><sub> UIBarButtonItem, UIActivityController </sub> | ![screen1](03_Project3/screenshots/small/screen01.png) ![screen2](03_Project3/screenshots/small/screen02.png) ![screen2](03_Project3/screenshots/small/screen03.png) |
 | [Milestone Projects 1-3](04_Milestone-Projects1-3) - __Country Flags__ <br/><sub>  </sub> | ![screen1](04_Milestone-Projects1-3/screenshots/small/screen01.png) ![screen2](04_Milestone-Projects1-3/screenshots/small/screen02.png) |
@@ -51,4 +53,4 @@ Projects / Topics  |  Screenshots
 | [Milestone Projects25-27](31_Milestone-Projects25-27) - __Meme Generator__ <br/><sub>  </sub> | ![screen1](31_Milestone-Projects25-27/screenshots/small/screen01.png) ![screen2](31_Milestone-Projects25-27/screenshots/small/screen02.png) ![screen2](31_Milestone-Projects25-27/screenshots/small/screen03.png) |
 | [Project 28](32_Project28) - __Secret Swift__ <br/><sub> Biometrics authentication, Touch ID, Face ID, iOS keychain </sub> | ![screen1](32_Project28/screenshots/small/screen01.png) ![screen2](32_Project28/screenshots/small/screen02.png) ![screen1](32_Project28/screenshots/small/screen03.png) ![screen1](32_Project28/screenshots/small/screen04.png) |
 | [Project 30](33_Project30) - __Instruments__ <br/><sub> Instruments, Time Profiler, Allocations, Shadows, Table cells in code </sub> | ![screen1](33_Project30/screenshots/small/screen01.png) ![screen2](33_Project30/screenshots/small/screen02.png) |
-| [Milestone Projects28-30](34_Milestone-Projects28-30_self) - __Match Pairs__ <br/><sub>  </sub> | ![screen1](34_Milestone-Projects28-30_self/screenshots/small/screen01.png) ![screen2](34_Milestone-Projects28-30_self/screenshots/small/screen02.png) ![screen2](34_Milestone-Projects28-30_self/screenshots/small/screen03.png) ![screen2](34_Milestone-Projects28-30_self/screenshots/small/screen04.png) |
+| [Milestone Projects28-30](34_Milestone-Projects28-30_self) - __Match Pairs__ <br/><sub>  </sub> | ![screen1](34_Milestone-Projects28-30_self/screenshots/small/screen01.png) ![screen2](34_Milestone-Projects28-30_self/screenshots/small/screen02.png) ![screen2](34_Milestone-Projects28-30_self/screenshots/small/screen03.png) ![screen2](34_Milestone-Projects28-30_self/screenshots/small/screen04.png) | -->
