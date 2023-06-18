@@ -1,4 +1,4 @@
-# Project 1 - Guess The Flag
+# Project 2 - Guess The Flag
 
 https://www.hackingwithswift.com/100/19
 
@@ -10,3 +10,4 @@ UIButton, CALayer, IBAction
 
 ![screenshot1](screenshots/screen01.png)
 ![screenshot2](screenshots/screen02.png)
+![screenshot2](screenshots/screen03.png)
