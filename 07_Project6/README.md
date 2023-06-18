@@ -1,4 +1,4 @@
-# Project 5 - Auto Layout
+# Project 6 - Auto Layout
 
 https://www.hackingwithswift.com/100/30
 
